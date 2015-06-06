@@ -1,6 +1,8 @@
 #Display hidden files and hidden directories.
 ls -a
 
+#what
+
 history > moving_around.text
 history | less
 history
