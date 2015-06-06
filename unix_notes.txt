@@ -2,6 +2,9 @@
 ls -a
 
 #what
+#are
+#we
+#doing?
 
 history > moving_around.text
 history | less
