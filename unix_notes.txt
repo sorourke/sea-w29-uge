@@ -1,0 +1,118 @@
+history > moving_around.text
+history | less
+history
+cd
+$ history >> moving_around.txt
+ls
+$history > moving_around.txt
+$ history > moving_around.txt
+cd documents
+clear
+$history>moving_around.txt
+$ subl moving_around.txt
+pwd
+cd ~/
+ls -a
+man ls
+man
+$history | less
+$ history | less
+$history 
+$home
+home
+cd data
+cd ~
+ls -rtl
+ls -lt
+ls -t
+cd /
+path
+git config --global user.email
+git config --global user.name
+echo $PATH 
+git --version
+curl -fsSL http://git.io/QxUaOQ | sh
+echo $git config
+echo $global user.name
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'sam.orourke@icloud.com'
+git config --global user.name "Sam O'Rourke"
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions 
+which fish
+which jshint
+echo $Shell
+curl -fsSL http://git.io/beJs | ruby
+brew install fish
+brew doctor
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew doctos
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+git status
+ls -la
+-la
+git init
+git config --gloabl credential.helper osxkeychain
+git credential-osxkeychain
+git config --global user.name "sam.orourke@icloud.com"
+$ git config --global user.name "Sam O'Rourke"
+cd test
+mv foo2 test/foo3
+cd ..
+mv foo foo2
+cwp
+mkdir test
+md test
+cp test1 foo
+touch test1
+cd linuxtutorialwork
+mkdir linuxtutorialwork
+ls -s
+man <command>
+cd ../
+cd ./SamORourke
+cd /SamORourke
+cd ~/SamORourke
+cd ~/documents
+cd /documents
+cd "code fellows"
+cd code fellows
+l
+cd ~/Documents
+cd /Documents
+cd document
+cd/users
+cd /usr/
+../
+ls ../../
+ls ~/documents
+ls /
+ls /users/samorourke
+ls ./Documents
+ls ~/Documents
+ls /etc
+ls -l /etc
+ls / etc
+ls -l
+echo $SHELL
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+s subl .
+subl .
+subl.
+subl
+bin/subl
+bin/subl /
+ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+sudo ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl 
+ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl 
+/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+/Users/SamORourke/Documents/Code\ Fellows/Projects 
