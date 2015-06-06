@@ -17,7 +17,7 @@ man ls
 man
 $history | less
 $ history | less
-$history 
+$history
 $home
 home
 cd data
@@ -29,7 +29,7 @@ cd /
 path
 git config --global user.email
 git config --global user.name
-echo $PATH 
+echo $PATH
 git --version
 curl -fsSL http://git.io/QxUaOQ | sh
 echo $git config
@@ -43,11 +43,15 @@ subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
 brew in
-fish_update_completions 
+fish_update_completions
 which fish
 which jshint
 echo $Shell
 curl -fsSL http://git.io/beJs | ruby
+
+#Adding a single comment while learning this stuff!
+
+
 brew install fish
 brew doctor
 chsh -s /usr/local/bin/fish
@@ -112,7 +116,7 @@ bin/subl
 bin/subl /
 ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
 /Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
-sudo ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl 
-ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl 
-/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
-/Users/SamORourke/Documents/Code\ Fellows/Projects 
+sudo ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+ln -s "/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+/Users/SamORourke/Desktop/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+/Users/SamORourke/Documents/Code\ Fellows/Projects
